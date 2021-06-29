@@ -44,9 +44,9 @@
 5. Do the configuration given above 
 6. Run the Program
 
-<img src="https://github.com/UG-SEP/Stack-Visualizer/blob/UG/pic.jpg"/>
+<img src="https://github.com/UG-SEP/Text-to-speech-convertor/blob/UG/pic.jpg"/>
 
-<h2>Show your Love by Staring some of my repos</h2>
+<h2>Show your Love 💖 by Staring ⭐⭐⭐⭐⭐ some of my repos</h2>
 
 
 
