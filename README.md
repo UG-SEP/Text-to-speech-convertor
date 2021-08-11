@@ -1,6 +1,7 @@
-# <h1 align="center">Text to Speech</h1>
+# <h1 align="center">📝Text to Speech🔊</h1>
 
 <h3>Blind people does not able to see so they cannot read text with there eyes so I have created a Text to speech convert to help them to listen the text. Text to speech converter helps support few feature...</h3>
+>> Copyright (c) Ujjwal Gupta (@UG-SEP)
 
 <h2>Features</h2>
 
